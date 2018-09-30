@@ -1,1 +1,1 @@
-# bb-landing-page
+# bb-corp-landing-page
